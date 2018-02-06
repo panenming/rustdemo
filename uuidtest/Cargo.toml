@@ -1,0 +1,7 @@
+[package]
+name = "uuidtest"
+version = "0.1.0"
+authors = ["panenming <panenming@enn.cn>"]
+
+[dependencies]
+uuid = "0.5.1-beta"
